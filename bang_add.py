@@ -19,8 +19,4 @@ def bangAdd(end):
     else:
         for i in range(1,end-1,-1):
             x+=i
-    print x
     return x
-
-
-bangAdd(end)
