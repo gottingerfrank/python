@@ -15,6 +15,3 @@ def using_control_again():
 
 print using_control_once()
 print using_control_again()
-
-
-
