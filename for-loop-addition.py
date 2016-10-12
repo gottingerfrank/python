@@ -1,6 +1,6 @@
 #   MITx 600.1x FingerExercise
 #   Week 2 - Lecture 3 - L3 Problem 5
-#   For-loop summing up for given 
+#   For-loop summing up for given
 #   Variable 'end' is given
 
 #   Written as function
@@ -18,10 +18,3 @@ def bangAdd(end):
     return x
 
 bangAdd(end)
-
-
-
-
-
-
-
