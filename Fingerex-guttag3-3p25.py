@@ -25,3 +25,5 @@ def float_sum(s):
 
 
 print float_sum(s)
+
+
