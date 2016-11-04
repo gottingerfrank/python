@@ -7,7 +7,7 @@ def members(my_dict,my_list):
         if item in my_dict:
             count += 1
     return count
-ssd
+
 
 
     

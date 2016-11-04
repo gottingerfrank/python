@@ -1,4 +1,4 @@
-#	Python Pathway - Python Collections - Dictionaries: Final 4 Coding Challenges
+#	Python Pathway - Python Collections - Dictionaries: Final 4 Coding Challenges (Lists)
 #	*** Challenges ***
 
 #	### CHALLENGE 1/4: ###
