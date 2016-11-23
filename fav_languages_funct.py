@@ -31,8 +31,8 @@ def fav_languages(languages):
 				print("Original list is empty now!")
 				break
 		
-                        else:
-                                break
+                else:
+                	break
                         
         print("Your favorite languages are:",favorites)
 

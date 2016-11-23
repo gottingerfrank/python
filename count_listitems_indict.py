@@ -8,6 +8,3 @@ def members(my_dict,my_list):
             count += 1
     return count
 
-
-
-    

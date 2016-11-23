@@ -20,7 +20,7 @@ def count_vowels(s):
 	print("Number of vowels:",num_vowels)
 	return num_vowels	
 
-s='azcbobobegghaklaesgaaeevcvba'
+s='muffduffingobblah'
 
 
 count_vowels(s)

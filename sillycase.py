@@ -9,5 +9,3 @@ def sillycase(string):
     print (string)
     return string
 
-sillycase("minigoggles")
-
