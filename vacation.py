@@ -1,12 +1,14 @@
-#   codecademy
-#   coding exercise
-#   Python course
+##################################################
+###############   Coding Exercise  ###############
+##################################################
 
-#   "Vacation"
+# Codecademy: Python Course(Python2) - Vacation
+
+##################################################
 
 def hotel_cost(nights):
     
-    one_night = 140
+    one_night = 140 
     total_hotel = one_night * nights
     return total_hotel
     
@@ -65,3 +67,5 @@ def trip_cost(city,days,spending_money):
     
 print trip_cost("Los Angeles",5,600)
     
+##################################################
+# END

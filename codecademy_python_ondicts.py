@@ -6,7 +6,6 @@
 
 ##################################################
 
-
 inventory = {
     'pocket':['seashell', 'strange berry', 'lint'],
     'gold' : 500,
@@ -24,8 +23,7 @@ inventory['backpack'].sort()
 # remove a list value in one of the dict-values
 inventory['backpack'].remove('dagger')
 
-
-
-
 ##################################################
 # END
+
+1

@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"save",
+				"save-only"
+			],
+			[
 				"sa",
 				"sandwiches\tstatement"
 			],
@@ -211,10 +215,30 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 67.0,
-		"last_filter": "Package Control: upgrad",
+		"height": 367.0,
+		"last_filter": "Package Control: ",
 		"selected_items":
 		[
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: In",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: upgrade",
+				"Package Control: Upgrade Package"
+			],
 			[
 				"Package Control: upgrad",
 				"Package Control: Upgrade Package"
@@ -222,10 +246,6 @@
 			[
 				"Package Control: Upda",
 				"Package Control: Upgrade Package"
-			],
-			[
-				"Package Control: ",
-				"Package Control: Satisfy Dependencies"
 			],
 			[
 				"Package Control: Ena",
@@ -314,17 +334,26 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/mellowcat/Dropbox/github/python"
 	],
 	"file_history":
 	[
-		"/Users/mellowcat/Dropbox/github/python-crashcourse/pycrash5-1_to_5-2.py",
-		"/Users/mellowcat/Dropbox/github/online-courses/6001x_python3/hangman_game.py",
-		"/Users/mellowcat/Library/Application Support/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
-		"/Users/mellowcat/Dropbox/github/python-crashcourse/py_crash3-2_greetings.py",
-		"/Users/mellowcat/Dropbox/github/webdev/html_css/html_css.css",
+		"/Users/mellowcat/Dropbox/github/python/student_teacher.py",
+		"/Users/mellowcat/Dropbox/github/python/count_listitems_indict.py",
+		"/Users/mellowcat/Dropbox/github/python/dict_invert_ex4.py",
+		"/Users/mellowcat/Dropbox/github/python/count_a_in_string.py",
 		"/Users/mellowcat/Dropbox/github/python-crashcourse/divideby.py",
 		"/Users/mellowcat/Library/Application Support/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/Users/mellowcat/Library/Application Support/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/Users/mellowcat/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/Users/mellowcat/Dropbox/github/python/codecademy_python_supermarket.py",
+		"/Users/mellowcat/Dropbox/github/python/codecademy_python_ondicts.py",
+		"/Users/mellowcat/Dropbox/github/python/general-template-coding.py",
+		"/Users/mellowcat/Dropbox/github/python/codecademy_python_ondictslists02.py",
+		"/Users/mellowcat/Dropbox/github/python/codecad_forloop_test.py",
+		"/Users/mellowcat/Dropbox/github/python-crashcourse/pycrash5-1_to_5-2.py",
+		"/Users/mellowcat/Dropbox/github/online-courses/6001x_python3/hangman_game.py",
+		"/Users/mellowcat/Dropbox/github/python-crashcourse/py_crash3-2_greetings.py",
+		"/Users/mellowcat/Dropbox/github/webdev/html_css/html_css.css",
 		"/Users/mellowcat/Dropbox/github/python-crashcourse/favoritelanguages_funct.py",
 		"/Users/mellowcat/Library/Application Support/Sublime Text 3/Packages/Anaconda/Default (OSX).sublime-keymap",
 		"/Users/mellowcat/Dropbox/github/python-crashcourse/pycrash3-10_everyfunction.py",
@@ -345,7 +374,6 @@
 		"/Users/mellowcat/Dropbox/github/python-crashcourse/py_crash3-3_yourownlist.py",
 		"/Users/mellowcat/Dropbox/github/python-crashcourse/pycrash4-14_to_4-15.py",
 		"/Users/mellowcat/Dropbox/github/python-crashcourse/pycrash4-10_to_4-12.py",
-		"/Users/mellowcat/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
 		"/Users/mellowcat/Library/Application Support/Sublime Text 3/Packages/User/Python (Django).sublime-settings",
 		"/Users/mellowcat/Library/Application Support/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
 		"/Users/mellowcat/Library/Application Support/Sublime Text 3/Packages/HTMLBeautify/HTMLBeautify.sublime-settings",
@@ -364,11 +392,9 @@
 		"/Users/mellowcat/Dropbox/github/python-crashcourse/pycrash3-9_dinnerguest.py",
 		"/Users/mellowcat/Dropbox/github/python-crashcourse/py_crash3-4_guestlist.py",
 		"/Users/mellowcat/Dropbox/github/python-crashcourse/pycrash3-8_seeingtheworld.py",
-		"/Users/mellowcat/Dropbox/github/python/count_a_in_string.py",
 		"/Users/mellowcat/Dropbox/github/python/untitled01.css",
 		"/Users/mellowcat/Dropbox/github/python/countdown_allversions.py",
 		"/Users/mellowcat/Dropbox/github/python/Fingerex-guttag3-3p25.py",
-		"/Users/mellowcat/Dropbox/github/python/count_listitems_indict.py",
 		"/Users/mellowcat/Library/Application Support/Sublime Text 3/Packages/User/Python.sublime-settings",
 		"/Users/mellowcat/Dropbox/github/python/vowel_count.py",
 		"/Users/mellowcat/Library/Application Support/Sublime Text 3/Packages/Anaconda/README.md",
@@ -438,14 +464,7 @@
 		"/Users/mellowcat/github/python-crashcourse/py_crash26_famousquote02.py",
 		"/Users/mellowcat/github/python-crashcourse/test_if_py27.py",
 		"/Users/mellowcat/github/python-crashcourse/py_crash22_simplemessages.py",
-		"/Users/mellowcat/github/python-crashcourse/py_crash21_simplemessage.py",
-		"/Users/mellowcat/github/python-crashcourse/py_crash23_personalmessage.py",
-		"/Users/mellowcat/github/python-crashcourse/py_crash24_namecases.py",
-		"/Users/mellowcat/github/python-crashcourse/py_crash25_famousquote.py",
-		"/Users/mellowcat/github/python-crashcourse/py_crash25_famousquote02.py",
-		"/Users/mellowcat/github/python-crashcourse/py_crash25_famousquote02orig.py",
-		"/Users/mellowcat/Library/Application Support/Sublime Text 3/Packages/User/Python3.sublime-build",
-		"/Users/mellowcat/github/python-crashcourse/hello_world.py"
+		"/Users/mellowcat/github/python-crashcourse/py_crash21_simplemessage.py"
 	],
 	"find":
 	{
@@ -524,13 +543,13 @@
 	"menu_visible": true,
 	"output.exec":
 	{
-		"height": 191.0
+		"height": 198.0
 	},
 	"output.find_results":
 	{
 		"height": 0.0
 	},
-	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"pinned_build_system": "Anaconda Python Builder",
 	"project": "codecademy_python.sublime-project",
 	"replace":
 	{
@@ -580,7 +599,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 250.0,
+	"side_bar_width": 226.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

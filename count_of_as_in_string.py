@@ -8,3 +8,5 @@ if total !=0:
     print total
 else:
     print "There are no a's present in this string"
+
+    
