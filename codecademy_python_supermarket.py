@@ -7,7 +7,7 @@
 
 ##################################################
  
-
+ 
 prices = {"banana": 4, "apple": 2, "orange": 1.5, "pear": 3}
 
 stock = {"banana": 6, "apple": 0, "orange": 32, "pear": 15}
@@ -48,8 +48,6 @@ prices = {
     "pear": 3
 }
 
-##################################################
-
 # create function to calculate bill from item list passed in
 def compute_bill(food):
 	total = 0
@@ -70,7 +68,7 @@ def compute_bill(food):
 		    total += prices[item]
 		    stock[item] -= 1
 	return total
-
+ 
 
 ##################################################
 # END

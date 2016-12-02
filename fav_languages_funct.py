@@ -2,7 +2,7 @@
 ##### 'Python Crash Course' Book - Exercises #####
 ##################################################
 
-# NOTE: THIS FUNCTION IS A SPINNOF OF "EX.3-10. Every Function"
+# THIS FUNCTION IS A SPINNOF OF "EX.3-10. Every Function"
 
 ##################################################
 
@@ -20,22 +20,19 @@ def fav_languages(languages):
 	print("Please note this list of programing languages:", languages,"\n")
 	chosen = ""
 	favorites = []
-	while chosen != "exit":
-		chosen = input('Choose your favorite language(s) from the list "languages"\n, or enter "exit"> ').lower()
-		for language in languages:
-			if chosen == language:
-				favorites.append(language)
-				index = languages.index(language)
-				del languages[index]
-			elif languages == []:
-				print("Original list is empty now!")
-				break
-		
-                else:
-                	break
-                        
-        print("Your favorite languages are:",favorites)
-
+	while True:
+		print('Choose your favorite language(s) from the list or enter "exit"\n')
+		chosen = input('>')
+		if chosen.lower() != "exit" and chosen in languages:
+			favorites.append(chosen)
+			index = languages.index(chosen)
+			del languages[index]
+		elif languages == []:
+			print("Original list is empty now!")
+			break
+		else:
+				pass
+	print("Your favorite languages are:", favorites)
 	print("\nRemaining languages in the original list:\n")
 	print(languages)
 	return favorites

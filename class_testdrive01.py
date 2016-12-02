@@ -11,8 +11,6 @@ class Animal(object):
 
 bear = Animal("furry", "sharp", "Bear", "Biggie")
 
-
-
 print bear.teeth
 print bear.name
 
@@ -26,4 +24,3 @@ print "porco has", pig.skin, "skin","Hello! My Name is", pig.name
 #
 
 print pig.name.upper()
-
