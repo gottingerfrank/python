@@ -18,9 +18,9 @@ pig = Animal("pinkish", "little", "Piglet", "Porcelino")
 
 print "porco has", pig.skin, "skin","Hello! My Name is", pig.name
 
+#
 #   **
 # ((--))
 #  \vv/
-#
 
 print pig.name.upper()
