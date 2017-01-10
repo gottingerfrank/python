@@ -5,11 +5,12 @@ def iterPower(base, exp):
  
     returns: int or float, base^exp
     '''
-    result=base
+    result = base
     iter = 1
     while iter < exp:
-        iter+=1
-        result = result*base
+        iter += 1
+        result = result * base
     return result
     
+
     

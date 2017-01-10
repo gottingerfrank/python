@@ -1,23 +1,12 @@
-
-# {'Jason Seifer': ['Ruby Foundations', 'Ruby on Rails Forms', 'Technology Foundations'],
-#  'Kenneth Love': ['Python Basics', 'Python Collections']}
-#
-# Often, it's a good idea to hold onto a max_count variable.
-# Update it when you find a teacher with more classes than
-# the current count. Better hold onto the teacher name somewhere
-# too!
-#
-# Your code goes below here.
-
-
-#	*** Challenges ***
-
-#	### CHALLENGE 1/4: ###
+##################################################
+###############   Coding Exercise  ###############
+##################################################
+###### Treehouse Python Pathway - 2015/2016 ######
+##################################################
+# CHALLENGE 1/4:
 
 #	Create a function named most_classes that takes a dictionary of teachers. Each key is a teacher's name and their value is a list of classes they've taught.
 #	most_classes should return the teacher with the most classes.
-
-
 #	Create function "most_classes", with argument being a dictionary of teachers
 
 #	"teachers"-dictionary has keys=teacher and values=list of classes - e.g:
@@ -46,7 +35,7 @@ most_classes(teachers)
 
 #	most_classes"-function should return the name of teacher with the most classes
 
-#	### CHALLENGE 2/4: ###
+# CHALLENGE 2/4
 
 #	Next, create a function named num_teachers that takes the same dictionary of teachers and classes
 #	Return the total number of teachers
@@ -58,7 +47,7 @@ def num_teachers(teachers):
 		total += 1
 	return total
 
-#	### CHALLENGE 3/4: ###
+# CHALLENGE 3/4 and 4/4
 
 #	Now, create a function named stats that takes the teacher dictionary
 #	Return a list of lists in the format [<teacher name>, <number of classes>]

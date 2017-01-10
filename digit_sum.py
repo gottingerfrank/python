@@ -2,19 +2,16 @@
 ###############   Coding Exercise  ###############
 ##################################################
 
-# Use for-loop to loop a certain no. of times
+# Coding Exercise - Function Add Digits
 ##################################################
 
-# Use a for-loop with the range() function to loop
-# a given no. of times...
-
-hobbies = []
-
-for turn in range(3):
-    hobby = raw_input('Enter a hobby >')
-    hobbies.append(hobby)
-    
-
+def digit_sum(x):
+    '''Takes in a positive int n and
+    returns the sum of its digits'''
+    total = 0
+    for digit in str(x):
+        total += int(digit)
+    return total
 
 ##################################################
 # END
