@@ -1,0 +1,25 @@
+##################################################
+###############   Coding Exercise  ###############
+##################################################
+
+# Coding Exercise - Function: is_prime
+##################################################
+
+def is_prime(x):
+    """test if x is a prime number:
+        a positive integer, and only
+        divisible by 1 and itself"""
+    if x > 1:
+        for n in range(2, x):
+            if (x % n) == 0:
+                return False
+            else:
+                pass
+        return True
+    else:
+        return False
+
+
+
+##################################################
+# END

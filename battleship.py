@@ -20,7 +20,7 @@ def print_board(board):
 
 print print_board(board)
 
-# create random-row and random-collumn functions
+# create random-row and random-collumn functions“
 def random_col(board):
     return randint(0, len(board[0])-1)
 
@@ -54,4 +54,4 @@ for turn in range(4):
             print "Game Over"
  
 ##################################################
-# END 
+# END“ 
