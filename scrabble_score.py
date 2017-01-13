@@ -2,7 +2,7 @@
 ###############   Coding Exercise  ###############
 ##################################################
 
-# Coding Exercise - Scrabble score
+# Coding Exercise - Calculate Scrabble Score
 ##################################################
 
 score = {"a": 1, "c": 3, "b": 3, "e": 1, "d": 2, "g": 2, 
