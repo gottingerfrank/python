@@ -7,5 +7,5 @@
 
     // Whether to clear previous output before each run.
     "code-runner.clearPreviousOutput": false,
-    "python.pythonPath": "/usr/local/bin/python3.5"
+    "python.pythonPath": "/usr/local/bin/python3"
 }
