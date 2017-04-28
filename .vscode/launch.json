@@ -1,12 +1,13 @@
 {
     "version": "0.2.0",
     "configurations": [
+        
         {
             "name": "Python",
             "type": "python",
             "request": "launch",
             "stopOnEntry": true,
-            "pythonPath": "${config.python.pythonPath}",
+            "pythonPath": "/Users/mc/anaconda/bin/python",
             "program": "${file}",
             "cwd": "${workspaceRoot}",
             "debugOptions": [
@@ -21,7 +22,7 @@
             "request": "launch",
             "stopOnEntry": true,
             "osx": {
-                "pythonPath": "${env.SPARK_HOME}/bin/spark-submit"
+                "pythonPath": "/Users/mc/anaconda/bin/python"
             },
             "windows": {
                 "pythonPath": "${env.SPARK_HOME}/bin/spark-submit.cmd"
@@ -42,7 +43,7 @@
             "type": "python",
             "request": "launch",
             "stopOnEntry": true,
-            "pythonPath": "${config.python.pythonPath}",
+            "pythonPath": "/Users/mc/anaconda/bin/python",
             "module": "module.name",
             "cwd": "${workspaceRoot}",
             "debugOptions": [
@@ -56,7 +57,7 @@
             "type": "python",
             "request": "launch",
             "stopOnEntry": true,
-            "pythonPath": "${config.python.pythonPath}",
+            "pythonPath": "/Users/mc/anaconda/bin/python",
             "program": "${file}",
             "cwd": "null",
             "console": "integratedTerminal",
@@ -70,7 +71,7 @@
             "type": "python",
             "request": "launch",
             "stopOnEntry": true,
-            "pythonPath": "${config.python.pythonPath}",
+            "pythonPath": "/Users/mc/anaconda/bin/python",
             "program": "${file}",
             "cwd": "null",
             "console": "externalTerminal",
@@ -84,7 +85,7 @@
             "type": "python",
             "request": "launch",
             "stopOnEntry": true,
-            "pythonPath": "${config.python.pythonPath}",
+            "pythonPath": "/Users/mc/anaconda/bin/python",
             "program": "${workspaceRoot}/manage.py",
             "cwd": "${workspaceRoot}",
             "args": [
@@ -103,7 +104,7 @@
             "type": "python",
             "request": "launch",
             "stopOnEntry": false,
-            "pythonPath": "${config.python.pythonPath}",
+            "pythonPath": "/Users/mc/anaconda/bin/python",
             "program": "fully qualified path fo 'flask' executable. Generally located along with python interpreter",
             "cwd": "${workspaceRoot}",
             "env": {
@@ -125,7 +126,7 @@
             "type": "python",
             "request": "launch",
             "stopOnEntry": false,
-            "pythonPath": "${config.python.pythonPath}",
+            "pythonPath": "/Users/mc/anaconda/bin/python",
             "program": "${workspaceRoot}/run.py",
             "cwd": "${workspaceRoot}",
             "args": [],
@@ -140,7 +141,7 @@
             "type": "python",
             "request": "launch",
             "stopOnEntry": true,
-            "pythonPath": "${config.python.pythonPath}",
+            "pythonPath": "/Users/mc/anaconda/bin/python",
             "program": "${workspaceRoot}/console.py",
             "cwd": "${workspaceRoot}",
             "args": [
