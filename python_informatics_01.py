@@ -31,3 +31,16 @@ print(dir(stuff))
 print(help(str.isdigit))
 
 print(help(list))
+
+stringo = "Hello world!"
+
+for i in dir(str):
+    print(i)
+
+int_1 = 55
+
+print(int_1)
+
+
+
+
