@@ -1,9 +1,9 @@
 ## Python scripts
 ---
 ```
-Think of it as a coding scratchpad ...
+coding scratchpad ...
 
-=> Code: mostly Python3
+=> mostly Python3
 ```
 ---
 
