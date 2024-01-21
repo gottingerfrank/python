@@ -1,4 +1,4 @@
-## Python snippets, scripts and short programs
+## Python scripts
 ---
 ```
 Think of it as a coding scratchpad ...
